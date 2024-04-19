@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I was a boatless Captain in Colorado Springs and now I'm not in Florida :P
 
 <!---
-marcusneal22/marcusneal22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
